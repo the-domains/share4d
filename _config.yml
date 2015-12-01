@@ -1,0 +1,28 @@
+name: share4D
+favicon: null
+layout_spectrum: 0.44050630019046366
+typography_spectrum: 0.373040511040017
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.529547227313742
+  lightness: 0.4069825850892812
+  saturation: 0.9374491160269827
+  rhythmicContrast: 0.9356734720058739
+purpose: []
