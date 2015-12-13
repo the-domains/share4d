@@ -1,41 +1,41 @@
-title: InCo Projects
-purpose: []
+typography_spectrum: 0.373040511040017
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.9844254
+title: InCo Projects
+purpose: []
 color:
   saturation: 0.9374491160269827
-  lightness: 0.5
   brandStrength: 1
+  rhythmicContrast: 1
   brandColors:
     - '#E1EAF0'
     - '#0E0E0B'
     - '#7F785C'
     - '#A39A7E'
     - '#BDBDAC'
-  rhythmicContrast: 1
+  lightness: 0.5
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: share4D
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.373040511040017
-layout_spectrum: 0.9844254
