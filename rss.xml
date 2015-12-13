@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[share4D]]></title>
-        <description><![CDATA[share4D]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[InCo Projects]]></title>
+        <description><![CDATA[InCo Projects]]></description>
+        <link>https://thegrid.ai/share4d/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 21:53:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Dec 2015 20:27:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/share4d/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Freeform]]></title>
-            <description><![CDATA[<article><h1></h1><p>4D Planning</p><img src="http://static1.squarespace.com/static/53ec6ba5e4b02d877321d60d/t/542d972ce4b0bd6214371370/1412273968467/Front+Page+Cropped.jpg?format=1500w"></article>]]></description>
+            <title><![CDATA[InCo Projects]]></title>
+            <description><![CDATA[<h1></h1>]]></description>
             <link>http://www.freeform3d.co.uk/</link>
             <guid isPermaLink="false">0d05498b-8573-449f-b489-ae074803a538</guid>
-            <pubDate>Tue, 01 Dec 2015 21:53:31 GMT</pubDate>
+            <pubDate>Sun, 13 Dec 2015 20:27:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
